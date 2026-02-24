@@ -1,5 +1,7 @@
 # mkdocs-cdoc
 
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
 [![CI](https://github.com/pawelsikora/mkdocs-cdoc/actions/workflows/ci.yml/badge.svg)](https://github.com/pawelsikora/mkdocs-cdoc/actions/workflows/ci.yml)
 [![Docs](https://github.com/pawelsikora/mkdocs-cdoc/actions/workflows/docs.yml/badge.svg)](https://pawelsikora.github.io/mkdocs-cdoc/)
 [![Python](https://img.shields.io/pypi/pyversions/mkdocs-cdoc)](https://pypi.org/project/mkdocs-cdoc/)
